@@ -1,4 +1,4 @@
-# LangChain + Hugging Face AI Infrastructure
+# Python, LangChain + Hugging Face AI Infrastructure
 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Convex](https://img.shields.io/badge/convex-4F46E5?style=for-the-badge&logo=convex&logoColor=white)
